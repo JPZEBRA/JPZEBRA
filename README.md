@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPZEBRA
 - 👀 I’m interested in ... javascript
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... ?
+- 💞️ I’m looking to collaborate on ... science
 - 📫 How to reach me ... mail or twitter
 
 <!---
